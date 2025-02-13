@@ -6,7 +6,7 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
-  <div class="author__avatar">
+  <div class="author__avatar" style="width: 150px; height: 150px;">
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
@@ -157,5 +157,9 @@
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}      
     </ul>
+  </div>
+
+  <div style="width: 150px; height: 150px;"> 
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=9ZCGXta2mygfN8OlsNJLXjd7Vo3vwYx4nrYV6o0v3Hs&cl=ffffff&w=a"></script>
   </div>
 </div>
