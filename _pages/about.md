@@ -6,15 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm Xiao Wu (吴骁), a second-year master's student at the School of Cyber Science and Engineering, Huazhong University of Science and Technology (HUST) advised by [Prof. Cai Fu](https://scholar.google.com/citations?user=FK3_guAAAAAJ&hl=en&oi=ao). Before that, I earned my bachelor's degree from Huazhong University of Science and Technology in 2023. 
+I'm Xiao Wu (吴骁), a second year master student in the School of Cyber Science and Engineering at Huazhong University of Science and Technology advised by [Prof. Cai Fu](http://faculty.hust.edu.cn/fucai/zh_CN/index.htm). I earned my bachelor’s degree from the same university in 2023.
 
-My research has focused on has focused on software testing and security, including **WebAssembly**, **Fuzzing**, and **Symbolic Execution**. Additionally, I am highly interested in the integration of existing AI technologies, including large language models and reinforcement learning, into software engineering and security research.
+My research has focused on software testing and security, particularly in **WebAssembly** and **Kernel**. Additionally, I am highly interested in the integration of existing AI technologies, including large language models and reinforcement learning, into software engineering and security research.
+# :newspaper: News
+> **2025.03.20:** I will be joining [Prof. Shaohua Li](https://shao-hua-li.github.io/)'s group at The Chinese University of Hong Kong in the second half of the year. See you in Hong Kong!
 
-# :notebook: Educations
-- *2023.09 - (now) 2026.06*, Huazhong University of Science of Technology
+>**2025.01.20:** One paper accpted by WWW'25. Sydney awaits us in May!
+
+# :notebook: Education
+- *2023.09 - 2026.06*, Huazhong University of Science of Technology, Wuhan, China
 <br>Master, Cyber Science and Engineering
 
-- *2019.09 - 2023.06*, Huazhong University of Science of Technology
+- *2019.09 - 2023.06*, Huazhong University of Science of Technology, Wuhan, China
 <br>Bachelor, Cyber Science and Engineering
 
 # :page_with_curl: Publications
@@ -34,9 +38,18 @@ My research has focused on has focused on software testing and security, includi
 <br>*Shuai Jiang, Cai Fu, Lingfeng Pei, Shuai He, Jianqiang Lv, XiaoFan Liu, **Xiao Wu**.*
 <br><font color="#069eb9" size="2">[Security'25][Under review]</font> In Proceedings of the 34th USENIX Security Symposium.
 
+<div style="display:none">
+# :bookmark_tabs: Internships
+- *2024.10 - now*     Remote Research Assistant, The Chinese University of Hong Kong, advised by [Prof. Shaohua Li](https://shao-hua-li.github.io/)
+- *2023.09 - 2024.09* Remote Research Assistant, University of Southern California, advised by [Prof. Weihang Wang](https://weihang-wang.github.io/#)
+</div>
+
 # 🏆 Honors and Awards
 - *2023, 2024* - Academic Scholarship
+- *2023* - Outstanding Graduate
 - *2022* - People's Scholarship
 - *2022* - Outstanding Youth League Member
+- *2022* - "*China Software Cup*" Student Software Design Competition - National Second Prize
 - *2021* - University Scholarship for Three Outstanding Students
 - *2021* - Outstanding Student Club Officer
+- *2021* - National Student Information Security Competition - National First Prize

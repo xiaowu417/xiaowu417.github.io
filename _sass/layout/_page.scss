@@ -61,13 +61,21 @@
     border-bottom: 1px solid var(--global-border-color);
   }
 
-  p, li, dl, em {
-    font-size: 0.85em;
+  p, dl, ul, em {
+    text-align: justify;
+    //font-size: 0.85em;
+    font-size: 15.3px;
   }
 
   li {
     line-height: 1.1; /* 调整行高 */
-    font-size: 0.9em;
+    //font-size: 0.85em;
+    //font-size: 15px;
+    font-size: 1em;
+  }
+
+  blockquote {
+    margin: 10px 0; /* 上下 20px，左右 0 */
   }
 
   ul {
