@@ -6,9 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm Xiao Wu (吴骁), a second year master student in the School of Cyber Science and Engineering at Huazhong University of Science and Technology advised by [Prof. Cai Fu](http://faculty.hust.edu.cn/fucai/zh_CN/index.htm). I earned my bachelor’s degree from the same university in 2023.
+I'm Xiao Wu (吴骁), a second year master student in the School of Cyber Science and Engineering at Huazhong University of Science and Technology (*HUST*) advised by [Prof. Cai Fu](http://faculty.hust.edu.cn/fucai/zh_CN/index.htm). I earned my bachelor’s degree from the same university in 2023.
 
 My research has focused on Software Testing and Security, particularly in **WebAssembly** and **Kernel**. Additionally, I am highly interested in the integration of existing AI technologies, including large language models and reinforcement learning, into software engineering and security research.
+
 # :newspaper: News
 > **2025.03.20:** I will be joining [Prof. Shaohua Li](https://shao-hua-li.github.io/)'s group at The Chinese University of Hong Kong in the second half of the year. See you in Hong Kong!
 
@@ -53,3 +54,7 @@ My research has focused on Software Testing and Security, particularly in **WebA
 - *2021* - University Scholarship for Three Outstanding Students
 - *2021* - Outstanding Student Club Officer
 - *2021* - National Student Information Security Competition - National First Prize
+
+# Contact 
+- **Email:** xiaowu_at_hust_dot_edu_dot_cn
+- **Blog:** shawdox_dot_github_dot_io
