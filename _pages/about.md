@@ -50,11 +50,13 @@ My research has focused on Software Testing and Security, particularly in **WebA
 - *2023* - Outstanding Graduate
 - *2022* - People's Scholarship
 - *2022* - Outstanding Youth League Member
-- *2022* - "*China Software Cup*" Student Software Design Competition - National Second Prize
-- *2021* - University Scholarship for Three Outstanding Students
+- *2021* - University Scholarship for Merit Students
 - *2021* - Outstanding Student Club Officer
-- *2021* - National Student Information Security Competition - National First Prize
+- *2020* - Excellent Student Association Cadre
 
+
+- *2022* - "*China Software Cup*" Software Design Competition - National Second Prize
+- *2021* - National Student Information Security Competition - National First Prize
 # Contact 
 - **Email:** xiaowu_at_hust_dot_edu_dot_cn
 - **Blog:** shawdox_dot_github_dot_io
