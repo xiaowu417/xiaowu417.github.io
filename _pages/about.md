@@ -28,16 +28,16 @@ My research has focused on Software Testing and Security, particularly in **WebA
 <br><font color="#069eb9" size="2">[WWW'25]</font> In Proceedings of the 34th International World Wide Web Conference.
 
 - **WasmDiff: Differential Analysis for Detecting Porting Discrepancies in WebAssembly**
-<br>***Xiao Wu**, Alan Romano, Qiwen Yan, Cai Fu, Weihang Wang.* 
-<br><font color="#069eb9" size="2">[ICSE'26][Under review]</font> In Proceedings of the 48th International Conference on Software Engineering.
+<br><font color="#069eb9" size="2">[Under review]</font> ***Xiao Wu**, Alan Romano, Qiwen Yan, Cai Fu, Weihang Wang.* 
+<!--In Proceedings of the 48th International Conference on Software Engineering. -->
 
 - **Is Your Benchmark (Still) Useful? Dynamic Benchmarking for Code Language Models**
-<br>*Batu Guan, **Xiao Wu**, Yuanyuan Yuan, Shaohua Li.*
-<br><font color="#069eb9" size="2">[ICML'25][Under review]</font> In Proceedings of the 42st International Conference on Machine Learning.
+<br><font color="#069eb9" size="2">[Under review]</font> *Batu Guan, **Xiao Wu**, Yuanyuan Yuan, Shaohua Li.*
+<!--In Proceedings of the 42st International Conference on Machine Learning.-->
 
 - **Ditto: Uncovering High-Risk Behaviors in the Linux Kernel via Historical Bug Activation and Diffusion**
-<br>*Shuai Jiang, Cai Fu, Lingfeng Pei, Shuai He, Jianqiang Lv, XiaoFan Liu, **Xiao Wu**.*
-<br><font color="#069eb9" size="2">[Security'25][Under review]</font> In Proceedings of the 34th USENIX Security Symposium.
+<br><font color="#069eb9" size="2">[Under review]</font> *Shuai Jiang, Cai Fu, Lingfeng Pei, Shuai He, Jianqiang Lv, XiaoFan Liu, **Xiao Wu**.*
+<!--In Proceedings of the 34th USENIX Security Symposium.-->
 
 <div style="display:none">
 # :bookmark_tabs: Internships
