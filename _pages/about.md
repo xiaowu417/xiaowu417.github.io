@@ -45,6 +45,11 @@ My research has focused on Software Testing and Security, particularly in **WebA
 - *2023.09 - 2024.09* Remote Research Assistant, University of Southern California, advised by [Prof. Weihang Wang](https://weihang-wang.github.io/#)
 </div>
 
+# 📋 Internships
+- *2024.10 - present*, The Chinese University of Hong Kong, Department of Computer Science and Engineering, Remote Research Assistant, advised by *[Shaohua Li](https://shao-hua-li.github.io/)*
+
+- *2023.09 - 2024.09*, University of Southern California, Department of Computer Science, Remote Research Assistant, advised by *[Weihang Wang](https://weihang-wang.github.io/#)*
+
 # 🏆 Honors and Awards
 - *2023, 2024* - Academic Scholarship
 - *2023* - Outstanding Graduate
@@ -57,6 +62,7 @@ My research has focused on Software Testing and Security, particularly in **WebA
 
 - *2022* - "*China Software Cup*" Software Design Competition - National Second Prize
 - *2021* - National Student Information Security Competition - National First Prize
-# Contact 
+
+# 🏢 Contact 
 - **Email:** xiaowu_at_hust_dot_edu_dot_cn
 - **Blog:** shawdox_dot_github_dot_io
