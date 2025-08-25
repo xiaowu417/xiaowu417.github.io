@@ -46,7 +46,9 @@ My research has focused on Software Testing and Security, particularly in **WebA
 </div>
 
 # 📋 Internships
-- *2024.10 - present*, The Chinese University of Hong Kong, Department of Computer Science and Engineering, Remote Research Assistant, advised by *[Shaohua Li](https://shao-hua-li.github.io/)*
+- *2025.08 - present*, The Chinese University of Hong Kong, Department of Computer Science and Engineering, Research Assistant, advised by *[Shaohua Li](https://shao-hua-li.github.io/)*
+
+- *2024.10 - 2025.06*, The Chinese University of Hong Kong, Department of Computer Science and Engineering, Remote Research Assistant, advised by *[Shaohua Li](https://shao-hua-li.github.io/)*
 
 - *2023.09 - 2024.09*, University of Southern California, Department of Computer Science, Remote Research Assistant, advised by *[Weihang Wang](https://weihang-wang.github.io/#)*
 
@@ -55,7 +57,7 @@ My research has focused on Software Testing and Security, particularly in **WebA
 - *2023* - Outstanding Graduate
 - *2022* - People's Scholarship
 - *2022* - Outstanding Youth League Member
-- *2021* - University Scholarship for Merit Students
+- *2021* - University Scholarship for Merit Students 
 - *2021* - Outstanding Student Club Officer
 - *2020* - Excellent Student Association Cadre
 
@@ -64,5 +66,5 @@ My research has focused on Software Testing and Security, particularly in **WebA
 - *2021* - National Student Information Security Competition - National First Prize
 
 # 🏢 Contact 
-- **Email:** xiaowu_at_hust_dot_edu_dot_cn
-- **Blog:** shawdox_dot_github_dot_io
+- **Email:** xiaowu@hust.edu.cn / xwu@cse.cuhk.edu.hk
+- **Blog:** shawdox@github.io

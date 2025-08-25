@@ -26,18 +26,12 @@
   .page__inner-wrap {
     @include full();
 
-    // 覆盖 full() 的宽度行为：设置最大宽度并水平居中。
-    // 你可以把 900px 替换为你需要的值，或使用百分比/变量（例如 $medium、$large）。
-    max-width: 900px;
+    // 覆盖 full() 的宽度行为：设置最大宽度并水平居中，与上级一致。
+    max-width: $x-large;
     margin-left: auto;
     margin-right: auto;
     padding-left: 1em;
     padding-right: 1em;
-
-    // 在更大的断点上保持响应式（可选）
-    @include breakpoint($x-large) {
-      max-width: $x-large;
-    }
 
     .page__content,
     .page__meta,
@@ -115,6 +109,10 @@
   a {
     text-decoration: underline;
 
+      // 限制文章主体宽度并居中显示
+      max-width: $page-content-max-width;
+      margin-left: auto;
+      margin-right: auto;
     &:hover {
       text-decoration: underline;
 
@@ -151,10 +149,6 @@
   position: relative;
   margin-bottom: 2em;
   @include clearfix;
-  // 限制文章主体宽度并居中显示
-  max-width: $page-content-max-width;
-  margin-left: auto;
-  margin-right: auto;
   animation: intro 0.3s both;
   animation-delay: 0.25s;
 

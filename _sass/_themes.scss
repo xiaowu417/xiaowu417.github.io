@@ -55,6 +55,10 @@ $medium-wide                : 900px !default;
 $large                      : 925px !default;
 $x-large                    : 1280px !default;
 
+// 页面主体内容最大宽度（可覆盖）
+// 默认使用 $medium-wide（900px），你可以改为 $medium / $large / $x-large 或具体像素值
+$page-content-max-width    : $x-large !default;
+
 /* ==========================================================================
    Grid
    ========================================================================== */
