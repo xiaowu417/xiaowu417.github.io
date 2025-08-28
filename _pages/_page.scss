@@ -23,6 +23,10 @@
     @include suffix(2 of 12);
   }
 
+   // 修改左右内边距
+  padding-left: 5em;
+  padding-right: 1em;
+
   .page__inner-wrap {
     @include full();
 

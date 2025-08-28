@@ -23,12 +23,15 @@
     @include suffix(2 of 12);
   }
 
+  padding-left: 1em !important;
+  padding-right: 1em !important;
+
   .page__inner-wrap {
     @include full();
 
     // 覆盖 full() 的宽度行为：设置最大宽度并水平居中。
     // 你可以把 900px 替换为你需要的值，或使用百分比/变量（例如 $medium、$large）。
-    max-width: 900px;
+    max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
     padding-left: 1em;
