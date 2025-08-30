@@ -125,7 +125,12 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-5;
+  //font-size: $type-size-5;
+  font-size: 18px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  padding-right: 60px;
 }
 
 .sidebar .author__desktop {
@@ -133,6 +138,7 @@
   @media screen and (min-width: 1024px) {
     display: block;
   }
+  font-size: 16px;
 }
 
 .author__pronouns {
@@ -160,11 +166,15 @@
   font-family: $sans-serif;
   z-index: 10;
   position: relative;
+  padding-right: 80px;
+  text-align: center;
   cursor: pointer;
-
+  //font-size: 16px;
+  //text-align: right;
   li:last-child {
     a {
       margin-bottom: 0;
+      //font-size: 16px;
     }
   }
 
@@ -250,7 +260,8 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-5;
+    //font-size: $type-size-5;
+    font-size: 16px;
     text-decoration: none;
 
     &:hover {

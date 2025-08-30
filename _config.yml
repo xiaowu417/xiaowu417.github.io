@@ -23,13 +23,13 @@ repository               : #"xiaowu417/xiaowu417.github.io"
 author:
   # Biographic information
   avatar           : "xiaowu.png"
-  name             : "Xiao Wu (吴骁)"
+  name             : "    Xiao Wu (吴骁)"
   pronouns         : # example: "she/her"  
-  bio              : "Master student, Huazhong University of Science and Technology"
-  location         : "Wuhan, China"
+  bio              : #"Master student, Huazhong University of Science and Technology"
+  location         : "Hong Kong"
   employer         : #"Huazhong University of Science and Technology"
   uri              : # URL
-  email            : "xiaowu@hust.edu.cn" 
+  email            : #"xiaowu@hust.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
