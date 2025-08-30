@@ -42,7 +42,7 @@ My research has focused on Software Testing and Security, particularly in **WebA
 </div>
 
 # INTERNSHIPS
-- *2025.08 - present*, The Chinese University of Hong Kong, Department of Computer Science and Engineering, Research Assistant, advised by *[Shaohua Li](https://shao-hua-li.github.io/)*
+- *2025.08 - present*, The Chinese University of Hong Kong, Department of Computer Science and Engineering, Junior Research Assistant, advised by *[Shaohua Li](https://shao-hua-li.github.io/)*
 
 - *2024.10 - 2025.06*, The Chinese University of Hong Kong, Department of Computer Science and Engineering, Remote Research Assistant, advised by *[Shaohua Li](https://shao-hua-li.github.io/)*
 
