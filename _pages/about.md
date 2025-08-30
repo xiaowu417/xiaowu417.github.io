@@ -72,5 +72,20 @@ My research has focused on Software Testing and Security, particularly in **WebA
 </div>
 
 # CONTACT
-- **Email:** xiaowu@hust.edu.cn / xwu@cse.cuhk.edu.hk
-- **Blog:** shawdox@github.io
+
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 250px; margin-right: 40px;">
+    <h3>Email:</h3>
+    <ul>
+      <li>xiaowu_at_hust_dot_edu_dot_cn</li>
+      <li>xwu_at_cse_dot_cuhk_dot_edu_dot_hk</li>
+      <li>xiaowu001_at_cuhk_dot_edu_dot_hk</li>
+    </ul>
+  </div>
+  <div style="flex: 1; min-width: 250px;">
+    <h3>Blog:</h3>
+    <ul>
+      <li>shawdox_dot_github_dot_io</li>
+    </ul>
+  </div>
+</div>
