@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a third-year master student in the School of Cyber Science and Engineering at Huazhong University of Science and Technology (*HUST*) advised by [Prof. Cai Fu](http://faculty.hust.edu.cn/fucai/zh_CN/index.htm). I earned my bachelor’s degree from the same university in 2023.
+I'm a third-year master student in the School of Cyber Science and Engineering at Huazhong University of Science and Technology (*HUST*) advised by [Prof. Cai Fu](http://faculty.hust.edu.cn/fucai/zh_CN/index.htm). I earned my bachelor’s degree from the same university in 2023. Currently, I am working as a junior research assistant at The Chinese University of Hong Kong.
 My research has focused on Software Testing and Security, particularly in **WebAssembly** and **Kernel**. Additionally, I am highly interested in the integration of existing AI technologies, including large language models and reinforcement learning, into software engineering and security research.
 
 # NEWS
@@ -23,13 +23,13 @@ My research has focused on Software Testing and Security, particularly in **WebA
 <br>**Xiao Wu**, Junzhou He, Liyan Huang, Cai Fu, Weihang Wang.
 <br><font color="#069eb9" size="2">[WWW'25]</font> In Proceedings of the 34th International World Wide Web Conference.
 
+- **Is Your Benchmark (Still) Useful? Dynamic Benchmarking for Code Language Models**
+<br>Batu Guan, **Xiao Wu**, Yuanyuan Yuan, Shaohua Li.
+<br><font color="#069eb9" size="2">[DL4C@NeurIPS]</font> The 4th Deep Learning for Code Workshop @ NeurIPS, 2025.
+
 - **WasmDiff: Differential Analysis for Detecting Porting Discrepancies in WebAssembly**
 <br><font color="#069eb9" size="2">[UNDER REVIEW]</font> **Xiao Wu**, Alan Romano, Qiwen Yan, Cai Fu, Weihang Wang.
 <!--In Proceedings of the 48th International Conference on Software Engineering. -->
-
-- **Is Your Benchmark (Still) Useful? Dynamic Benchmarking for Code Language Models**
-<br><font color="#069eb9" size="2">[UNDER REVIEW]</font> Batu Guan, **Xiao Wu**, Yuanyuan Yuan, Shaohua Li.
-<!--In Proceedings of the 42st International Conference on Machine Learning.-->
 
 - **Ditto: Uncovering High-Risk Behaviors in the Linux Kernel via Historical Bug Activation and Diffusion**
 <br><font color="#069eb9" size="2">[UNDER REVIEW]</font> Shuai Jiang, Cai Fu, Lingfeng Pei, Shuai He, Jianqiang Lv, XiaoFan Liu, **Xiao Wu**.
@@ -65,7 +65,7 @@ My research has focused on Software Testing and Security, particularly in **WebA
   <div style="flex: 1; min-width: 250px;">
     <h3>Competition:</h3>
     <ul>
-      <li><em>2022</em> - "<strong>China Software Cup</strong>" Software Design Competition - National Second Prize</li>
+      <li><em>2022</em> - "China Software Cup" Software Design Competition - National Second Prize</li>
       <li><em>2021</em> - National Student Information Security Competition - National First Prize - Team Leader</li>
     </ul>
   </div>
@@ -83,9 +83,9 @@ My research has focused on Software Testing and Security, particularly in **WebA
     </ul>
   </div>
   <div style="flex: 1; min-width: 250px;">
-    <h3>Blog:</h3>
+    <h3>Social Media:</h3>
     <ul>
-      <li>shawdox_dot_github_dot_io</li>
+      <li>Blog: shawdox_dot_github_dot_io</li>
     </ul>
   </div>
 </div>
