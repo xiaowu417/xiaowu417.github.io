@@ -19,20 +19,20 @@ My research has focused on Software Testing and Security, particularly in **WebA
 - *2019.09 - 2023.06*, Bachelor of Cyber Science and Engineering, Huazhong University of Science and Technology, China
 
 # PUBLICATIONS
-- **WBSan: Webassembly Bug Detection for Sanitization and Binary-Only Fuzzing**
-<br>**Xiao Wu**, Junzhou He, Liyan Huang, Cai Fu, Weihang Wang.
-<br><font color="#069eb9" size="2">[WWW'25]</font> In Proceedings of the 34th International World Wide Web Conference.
-
 - **Is Your Benchmark (Still) Useful? Dynamic Benchmarking for Code Language Models**
 <br>Batu Guan, **Xiao Wu**, Yuanyuan Yuan, Shaohua Li.
 <br><font color="#069eb9" size="2">[DL4C@NeurIPS]</font> The 4th Deep Learning for Code Workshop @ NeurIPS, 2025.
 
-- **WasmDiff: Differential Analysis for Detecting Porting Discrepancies in WebAssembly**
-<br><font color="#069eb9" size="2">[UNDER REVIEW]</font> **Xiao Wu**, Alan Romano, Qiwen Yan, Cai Fu, Weihang Wang.
+- **WBSan: Webassembly Bug Detection for Sanitization and Binary-Only Fuzzing**
+<br>**Xiao Wu**, Junzhou He, Liyan Huang, Cai Fu, Weihang Wang.
+<br><font color="#069eb9" size="2">[WWW'25]</font> In Proceedings of the 34th International World Wide Web Conference.
+
+<!-- - **WasmDiff: Differential Analysis for Detecting Porting Discrepancies in WebAssembly**
+<br><font color="#069eb9" size="2">[UNDER REVIEW]</font> **Xiao Wu**, Alan Romano, Qiwen Yan, Cai Fu, Weihang Wang. -->
 <!--In Proceedings of the 48th International Conference on Software Engineering. -->
 
-- **Ditto: Uncovering High-Risk Behaviors in the Linux Kernel via Historical Bug Activation and Diffusion**
-<br><font color="#069eb9" size="2">[UNDER REVIEW]</font> Shuai Jiang, Cai Fu, Lingfeng Pei, Shuai He, Jianqiang Lv, XiaoFan Liu, **Xiao Wu**.
+<!-- - **Ditto: Uncovering High-Risk Behaviors in the Linux Kernel via Historical Bug Activation and Diffusion**
+<br><font color="#069eb9" size="2">[UNDER REVIEW]</font> Shuai Jiang, Cai Fu, Lingfeng Pei, Shuai He, Jianqiang Lv, XiaoFan Liu, **Xiao Wu**. -->
 <!--In Proceedings of the 34th USENIX Security Symposium.-->
 
 <div style="display:none">
