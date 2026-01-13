@@ -10,7 +10,7 @@ I'm a third-year master student in the School of Cyber Science and Engineering a
 My research has focused on Software Testing and Security, particularly in **WebAssembly** and **Kernel**. Additionally, I am highly interested in the integration of existing AI technologies, including large language models and reinforcement learning, into software engineering and security research.
 
 # NEWS
-> **2026.01.11:** One paper accepted by WWW'26.
+> **2026.01.13:** One paper accepted by WWW'26.
 
 > **2025.03.20:** I will be joining [Prof. Shaohua Li](https://shao-hua-li.github.io/)'s group at The Chinese University of Hong Kong in the second half of the year.
 
