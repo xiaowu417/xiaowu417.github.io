@@ -22,8 +22,8 @@ repository               : #"xiaowu417/xiaowu417.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "xiaowu.png"
-  name             : "Xiao Wu (吴骁)"
+  avatar           : "xiaowu.jpg"
+  name             : ""
   pronouns         : # example: "she/her"  
   bio              : #"Master student, Huazhong University of Science and Technology"
   location         : "Hong Kong"

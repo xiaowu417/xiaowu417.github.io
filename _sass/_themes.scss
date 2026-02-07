@@ -7,15 +7,15 @@
    ========================================================================== */
 
 /* Used to set the size for <em> */
-$doc-font-size              : 16;
+$doc-font-size              : 14;
 
 /* Paragraph indention */
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.0em;
 
 /* System typefaces */
-$serif                      : Times, SimSun, Georgia, Times, serif;
-$sans-serif                 : Times, SimSun, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$serif                      : "EB Garamond", "Noto Serif SC", "Times New Roman", Times, SimSun, serif;
+$sans-serif                 : "EB Garamond", "Noto Serif SC", "Times New Roman", Times, SimSun, serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* Sans serif typefaces */
@@ -40,7 +40,7 @@ $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
 
 $global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
+$header-font-family         : "Spectral", "Noto Serif SC", "Times New Roman", Times, SimSun, serif;
 $caption-font-family        : $serif;
 
 /* ==========================================================================

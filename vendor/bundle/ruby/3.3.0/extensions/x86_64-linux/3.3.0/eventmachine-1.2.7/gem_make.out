@@ -1,0 +1,19 @@
+current directory: /home/xiaowu/xiaowu417.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/home/xiaowu/.rbenv/versions/3.3.8/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/xiaowu/xiaowu417.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260206-165234-azfkib sitelibdir\=./.gem.20260206-165234-azfkib clean
+
+current directory: /home/xiaowu/xiaowu417.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260206-165234-azfkib sitelibdir\=./.gem.20260206-165234-azfkib
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/xiaowu/xiaowu417.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260206-165234-azfkib sitelibdir\=./.gem.20260206-165234-azfkib install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20260206-165234-azfkib
+
+current directory: /home/xiaowu/xiaowu417.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260206-165234-azfkib sitelibdir\=./.gem.20260206-165234-azfkib clean
