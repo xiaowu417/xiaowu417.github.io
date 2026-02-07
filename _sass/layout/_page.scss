@@ -31,7 +31,7 @@
 
     // 覆盖 full() 的宽度行为：设置最大宽度并水平居中。
     // 你可以把 900px 替换为你需要的值，或使用百分比/变量（例如 $medium、$large）。
-    max-width: 88%;
+    max-width: 90%;
     margin-left: auto;
     margin-right: auto;
     padding-left: 1em;
@@ -40,7 +40,7 @@
 
     // 在更大的断点上保持响应式（可选）
     @include breakpoint($x-large) {
-      max-width: 88%;
+      max-width: 90%;
     }
 
     .page__content,

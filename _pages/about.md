@@ -13,7 +13,7 @@ CUHK PhD Candidate '26 advised by [Shaohua Li](https://shao-hua-li.github.io/). 
 # NEWS
 > **2026.01.13:** One paper accepted by WWW'26.
 
-> **2025.03.20:** I will be joining Prof. Shaohua Li's group at The Chinese University of Hong Kong in the second half of the year.
+> **2025.03.20:** I will be joining Prof. Shaohua Li's group at The Chinese University of Hong Kong.
 
 >**2025.01.20:** One paper accepted by WWW'25.
 
@@ -32,8 +32,8 @@ CUHK PhD Candidate '26 advised by [Shaohua Li](https://shao-hua-li.github.io/). 
 <br><font color="#ac2669" size="2">[WWW'25]</font> In Proceedings of the 34th International World Wide Web Conference.
 
 # EDUCATION
-- 2023.09 - 2026.06, Master of Cyber Science and Engineering, Huazhong University of Science and Technology, Wuhan, China
-- 2019.09 - 2023.06, Bachelor of Cyber Science and Engineering, Huazhong University of Science and Technology, Wuhan, China
+- 2023.09 - 2026.06, Master of Cyber Science and Engineering, Huazhong University of Science and Technology, China
+- 2019.09 - 2023.06, Bachelor of Cyber Science and Engineering, Huazhong University of Science and Technology, China
 
 <!-- - **Ditto: Uncovering High-Risk Behaviors in the Linux Kernel via Historical Bug Activation and Diffusion**
 <br><font color="#069eb9" size="2">[UNDER REVIEW]</font> Shuai Jiang, Cai Fu, Lingfeng Pei, Shuai He, Jianqiang Lv, XiaoFan Liu, **Xiao Wu**. -->
