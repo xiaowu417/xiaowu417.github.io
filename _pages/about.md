@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-CUHK PhD Candidate '26 advised by [Shaohua Li](https://shao-hua-li.github.io/). Driven by curiosity across all horizons.
+CUHK CSE PhD Candidate '26 advised by [Shaohua Li](https://shao-hua-li.github.io/). Driven by curiosity across all horizons.
 
 # NEWS
 > **2026.01.13:** One paper accepted by WWW'26.
