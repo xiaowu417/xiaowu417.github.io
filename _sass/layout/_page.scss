@@ -36,7 +36,7 @@
     margin-right: auto;
     padding-left: 1em;
     padding-right: 1em;
-    background-color: #fff;
+    background-color: #fbfaf7;
 
     // 在更大的断点上保持响应式（可选）
     @include breakpoint($x-large) {
