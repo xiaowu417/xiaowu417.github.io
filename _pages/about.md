@@ -57,7 +57,7 @@ CUHK CSE PhD Candidate '26 advised by [Shaohua Li](https://shao-hua-li.github.io
   <div style="flex: 1; min-width: 250px; margin-right: 40px;">
     <h3>Academic:</h3>
     <ul>
-      <li>2023, 2024 - Academic Scholarship</li>
+      <li>2023, 2024, 2025 - Academic Scholarship</li>
       <li>2023 - Outstanding Graduate</li>
       <li>2022 - People's Scholarship</li>
       <li>2022 - Outstanding Youth League Member</li>
