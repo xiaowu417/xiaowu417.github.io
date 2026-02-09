@@ -60,6 +60,12 @@ layout: default
         {% endif %}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+
+        {% if page.url == "/" %}
+          <div style="width: 30%; margin: 2em auto 0;">
+            <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=9ZCGXta2mygfN8OlsNJLXjd7Vo3vwYx4nrYV6o0v3Hs&cl=ffffff&w=a"></script>
+          </div>
+        {% endif %}
       </section>
 
       <footer class="page__meta">
